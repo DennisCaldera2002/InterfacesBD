@@ -1,0 +1,14 @@
+C:\Users\denni\source\repos\securityProject\bin\Debug\securityProject.exe.config
+C:\Users\denni\source\repos\securityProject\bin\Debug\securityProject.exe
+C:\Users\denni\source\repos\securityProject\bin\Debug\securityProject.pdb
+C:\Users\denni\source\repos\securityProject\bin\Debug\securityProject.xml
+C:\Users\denni\source\repos\securityProject\obj\Debug\securityProject.vbprojAssemblyReference.cache
+C:\Users\denni\source\repos\securityProject\obj\Debug\securityProject.Resources.resources
+C:\Users\denni\source\repos\securityProject\obj\Debug\securityProject.vbproj.GenerateResource.cache
+C:\Users\denni\source\repos\securityProject\obj\Debug\securityProject.vbproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\securityProject\obj\Debug\securityProject.exe
+C:\Users\denni\source\repos\securityProject\obj\Debug\securityProject.xml
+C:\Users\denni\source\repos\securityProject\obj\Debug\securityProject.pdb
+C:\Users\denni\source\repos\securityProject\obj\Debug\securityProject.frmCredenciales.resources
+C:\Users\denni\source\repos\securityProject\obj\Debug\securityProject.frmMenuPpal.resources
+C:\Users\denni\source\repos\securityProject\obj\Debug\securityProject.frmUsuarios.resources
